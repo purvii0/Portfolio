@@ -1,0 +1,23 @@
+.skillimage{
+  max-width: 70%;
+  max-height: 70%;
+  margin-top: 4px;
+}
+
+.skill-img-container{
+  background-color: rgba(25, 55, 109, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+}
+
+.skill-container{
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 10px;
+}

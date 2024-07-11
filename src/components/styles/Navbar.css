@@ -1,0 +1,36 @@
+.logo{
+  font-size: 25px;
+}
+
+.desktop-nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  margin-top: 15px;
+  margin-left: 20px;
+  height: 38px;
+}
+
+.nav-button{
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  
+}
+
+.linked-in{
+  width: 40px;
+  height: 40px;
+}
+
+.cat-btn{
+  background: none;
+  border: none;
+  color: white;
+  font-size: 19px;
+  font-family:Poppins, sans-serif;
+  cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.skills{
+  height: 100vh;
+  color: #04152D;
+}
+
+.skills-card{
+  background-color: rgb(197, 68, 68);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ 
+  margin: 6% 6% 6% 6%;
+  height: 80%;
+  background-color: rgba(12, 12, 12, 0.6) ;
+  color: white;
+}
+
+.heading{
+  text-align: center;
+}
+
+.skill-set{
+  margin: 5% 7%;
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  row-gap: 25px;
+}
